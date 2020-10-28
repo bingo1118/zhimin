@@ -23,7 +23,9 @@ package com.smart.cloud.fire.global;
     //万科测试IP:
 //    public static final String SERVER_IP_NEW ="http://193.112.231.227:51091/vanke/";
     //北京项目IP:
-    public static final String SERVER_IP_NEW ="http://47.95.43.248:51091/zhiminkeji/";
+//    public static final String SERVER_IP_NEW ="http://47.95.43.248:51091/zhiminkeji/";
+    //北京项目IP:
+    public static final String SERVER_IP_NEW ="http://47.95.233.121:51091/zhiminkeji/";
 
     //2018正式新IP:139.199.58.208
 //    public static final String SERVER_IP_NEW ="http://139.199.58.208:51091/fireSystem/";
